@@ -34,6 +34,7 @@ LeetCode practice questions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SrushtiHolkar/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/SrushtiHolkar/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SrushtiHolkar/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Manacher
 |  |
