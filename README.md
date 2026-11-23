@@ -7,6 +7,7 @@ LeetCode practice questions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SrushtiHolkar/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SrushtiHolkar/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SrushtiHolkar/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SrushtiHolkar/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search
@@ -52,4 +53,20 @@ LeetCode practice questions
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SrushtiHolkar/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+## Math
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SrushtiHolkar/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SrushtiHolkar/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SrushtiHolkar/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SrushtiHolkar/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
