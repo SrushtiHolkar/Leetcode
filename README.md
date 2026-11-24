@@ -10,6 +10,7 @@ LeetCode practice questions
 | [1352-product-of-the-last-k-numbers](https://github.com/SrushtiHolkar/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SrushtiHolkar/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SrushtiHolkar/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SrushtiHolkar/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ LeetCode practice questions
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/SrushtiHolkar/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SrushtiHolkar/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
 |  |
 | ------- |
@@ -69,4 +71,16 @@ LeetCode practice questions
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/SrushtiHolkar/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SrushtiHolkar/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SrushtiHolkar/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SrushtiHolkar/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
