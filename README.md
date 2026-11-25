@@ -11,10 +11,12 @@ LeetCode practice questions
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SrushtiHolkar/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SrushtiHolkar/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SrushtiHolkar/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3934-smallest-unique-subarray](https://github.com/SrushtiHolkar/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SrushtiHolkar/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3934-smallest-unique-subarray](https://github.com/SrushtiHolkar/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,6 +48,7 @@ LeetCode practice questions
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SrushtiHolkar/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/SrushtiHolkar/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -83,4 +86,16 @@ LeetCode practice questions
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SrushtiHolkar/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SrushtiHolkar/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SrushtiHolkar/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SrushtiHolkar/Leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
