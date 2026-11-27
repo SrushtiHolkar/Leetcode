@@ -12,6 +12,7 @@ LeetCode practice questions
 | [3331-find-subtree-sizes-after-changes](https://github.com/SrushtiHolkar/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SrushtiHolkar/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/SrushtiHolkar/Leetcode/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/SrushtiHolkar/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@ LeetCode practice questions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SrushtiHolkar/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SrushtiHolkar/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/SrushtiHolkar/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -103,4 +105,8 @@ LeetCode practice questions
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/SrushtiHolkar/Leetcode/tree/master/3360-stone-removal-game) |
+## Greedy
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/SrushtiHolkar/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
