@@ -13,6 +13,7 @@ LeetCode practice questions
 | [3411-maximum-subarray-with-equal-products](https://github.com/SrushtiHolkar/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/SrushtiHolkar/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/SrushtiHolkar/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/SrushtiHolkar/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ LeetCode practice questions
 |  |
 | ------- |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SrushtiHolkar/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/SrushtiHolkar/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,4 +111,9 @@ LeetCode practice questions
 |  |
 | ------- |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/SrushtiHolkar/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/SrushtiHolkar/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/SrushtiHolkar/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
